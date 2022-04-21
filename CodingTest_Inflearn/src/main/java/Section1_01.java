@@ -1,6 +1,6 @@
-import java.util.Locale;
 import java.util.Scanner;
 
+// 문자 찾기
 public class Section1_01 {
     public int solution(String str, char t) {
         int answer = 0;

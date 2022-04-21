@@ -1,5 +1,6 @@
 import java.util.Scanner;
 
+// 문장 속 단어 (indexOf(), sustring())
 public class Section1_03 {
 
     public String solution(String str) {

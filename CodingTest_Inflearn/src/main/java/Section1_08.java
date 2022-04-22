@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-// 팰린드롭 (replaceAll 정규식이용) => 앞에서 읽거나 뒤에서 읽을 때 같은 문자열
+// 팰린드롬 (replaceAll 정규식이용) => 앞에서 읽거나 뒤에서 읽을 때 같은 문자열
 public class Section1_08 {
     // 회문을 검사할 때 알파벳만 가지고 회문을 검사하며, 대소문자 구분 X
     public String solution(String s) {

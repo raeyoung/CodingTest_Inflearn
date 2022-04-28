@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-// 암호 (replace(), parseInt(string, 2))
+// 문자열 압축
 public class Section1_11 {
     public String solution(String s) {
         String answer = "";

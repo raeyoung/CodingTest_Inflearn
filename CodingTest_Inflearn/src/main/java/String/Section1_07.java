@@ -1,3 +1,5 @@
+package String;
+
 import java.util.Scanner;
 
 // 회문문자열 (앞에 읽거나 뒤에서 읽을 떄 같은 문자열)

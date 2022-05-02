@@ -1,3 +1,5 @@
+package String;
+
 import java.util.Scanner;
 
 // 문자거리

@@ -1,3 +1,5 @@
+package String;
+
 import java.util.Scanner;
 
 // 중복문자 제거 (indexOf)

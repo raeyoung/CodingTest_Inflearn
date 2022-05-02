@@ -1,3 +1,5 @@
+package String;
+
 import java.util.Scanner;
 
 // 대소문자 변환

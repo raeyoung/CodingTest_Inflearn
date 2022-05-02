@@ -1,3 +1,5 @@
+package String;
+
 import java.util.Scanner;
 
 // 특정 문자 뒤집기 (toCHarArray())

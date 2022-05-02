@@ -1,3 +1,5 @@
+package String;
+
 import java.util.Scanner;
 
 // 팰린드롬 (replaceAll 정규식이용) => 앞에서 읽거나 뒤에서 읽을 때 같은 문자열

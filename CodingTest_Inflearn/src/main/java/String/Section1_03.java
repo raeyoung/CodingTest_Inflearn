@@ -1,3 +1,5 @@
+package String;
+
 import java.util.Scanner;
 
 // 문장 속 단어 (indexOf(), sustring())

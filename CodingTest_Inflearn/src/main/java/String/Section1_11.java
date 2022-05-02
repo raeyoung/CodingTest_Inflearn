@@ -1,3 +1,5 @@
+package String;
+
 import java.util.Scanner;
 
 // 문자열 압축

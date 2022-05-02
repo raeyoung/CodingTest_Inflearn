@@ -5,9 +5,24 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="457ac715-9abd-47c2-91e5-f8aa1a226de5" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/js/Section1_01.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Section2_02.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Array/Section2_04.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Section1_01.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/String/Section1_01.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Section1_02.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/String/Section1_02.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Section1_03.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/String/Section1_03.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Section1_04.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/String/Section1_04.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Section1_05.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/String/Section1_05.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Section1_06.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/String/Section1_06.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Section1_07.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/String/Section1_07.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Section1_08.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/String/Section1_08.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Section1_09.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/String/Section1_09.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Section1_10.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/String/Section1_10.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Section1_11.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/String/Section1_11.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Section1_12.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/String/Section1_12.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Section2_01.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Array/Section2_01.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Section2_02.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Array/Section2_02.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Section2_03.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Array/Section2_03.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -58,35 +73,35 @@
   </component>
   <component name="RunManager" selected="Application.Section1_12">
     <configuration name="Section1_02" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Section1_02" />
+      <option name="MAIN_CLASS_NAME" value="String.Section1_02" />
       <module name="CodingTest_Inflearn.main" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <configuration name="Section1_07" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Section1_07" />
+      <option name="MAIN_CLASS_NAME" value="String.Section1_07" />
       <module name="CodingTest_Inflearn.main" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <configuration name="Section1_08" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Section1_08" />
+      <option name="MAIN_CLASS_NAME" value="String.Section1_08" />
       <module name="CodingTest_Inflearn.main" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <configuration name="Section1_10" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Section1_10" />
+      <option name="MAIN_CLASS_NAME" value="String.Section1_10" />
       <module name="CodingTest_Inflearn.main" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <configuration name="Section1_12" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Section1_12" />
+      <option name="MAIN_CLASS_NAME" value="String.Section1_12" />
       <module name="CodingTest_Inflearn.main" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -137,7 +152,7 @@
     <breakpoint-manager>
       <breakpoints>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/main/java/Section1_03.java</url>
+          <url>file://$PROJECT_DIR$/src/main/java/String/Section1_03.java</url>
           <line>3</line>
           <option name="timeStamp" value="1" />
         </line-breakpoint>

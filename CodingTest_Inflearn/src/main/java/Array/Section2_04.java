@@ -32,6 +32,6 @@ public class Section2_04 {
         Section2_04 s = new Section2_04();
         Scanner sc = new Scanner(System.in);
         int n = sc.nextInt();
-        for(int x : s.Solution(n)) System.out.println(x + " ");
+        for(int x : s.Solution(n)) System.out.print(x + " ");
     }
 }

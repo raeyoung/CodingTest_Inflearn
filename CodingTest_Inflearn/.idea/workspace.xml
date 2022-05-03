@@ -5,24 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="457ac715-9abd-47c2-91e5-f8aa1a226de5" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/Array/Section2_05.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/js/Section1_02.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/classes/Section1_01.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/classes/Section1_02.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/classes/Section1_03.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/classes/Section1_04.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/classes/Section1_05.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/classes/Section1_06.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/classes/Section1_07.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/classes/Section1_08.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/classes/Section1_09.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/classes/Section1_10.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/classes/Section1_11.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/classes/Section1_12.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/classes/Section2_01.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/classes/Section2_02.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/classes/Section2_03.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Array/Section2_04.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Array/Section2_04.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -38,6 +22,7 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="Class" />
+        <option value="JavaScript File" />
       </list>
     </option>
   </component>
@@ -137,6 +122,7 @@
       <workItem from="1651196705391" duration="625000" />
       <workItem from="1651060243815" duration="656000" />
       <workItem from="1651147513618" duration="4546000" />
+      <workItem from="1651581688527" duration="978000" />
     </task>
     <servers />
   </component>

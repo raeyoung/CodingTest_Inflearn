@@ -1,4 +1,4 @@
-// 특정 문자열만 뒤집기 (영문만 뒤집기)
+// 특정 문자만 뒤집기 (영문만 뒤집기)
 let str = 'a#b!GE*T@S';
 let answer = '';
 let pattern = /[a-zA-Z]/; //영어
@@ -11,7 +11,7 @@ for(let i=0 ; i<str.length ; i++) {
     while(lt < rt) {
         if(!pattern.test(s[lt])) lt++;
         else if(!pattern.test(s[rt])) rt--;
-        else {  // 영문인 경우 
+        else {  // 영문인 경우
             let tmp = s[lt];
             s[lt] = s[rt];
             s[rt] = tmp;

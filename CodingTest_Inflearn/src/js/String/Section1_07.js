@@ -1,3 +1,4 @@
+// 회문문자열
 let str = 'gooG';
 //let answer = 'YES';
 

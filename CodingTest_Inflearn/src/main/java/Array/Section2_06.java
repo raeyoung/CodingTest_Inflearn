@@ -25,7 +25,6 @@ public class Section2_06 {
                 tmp = tmp / 10;
             }
             if(isPrime(res)) answer.add(res);
-
         }
         return answer;
     }

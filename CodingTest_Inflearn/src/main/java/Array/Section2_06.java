@@ -4,12 +4,12 @@ import java.util.ArrayList;
 import java.util.Scanner;
 
 // 뒤집은 소수
-public class Section1_06 {
+public class Section2_06 {
     // 소수 판별
     public boolean isPrime(int num) {
         if(num == 1) return false;
         for(int i=2 ; i<num ; i++) {
-            if(num%1==0) return false;
+            if(num%i==0) return false;
         }
         return true;
 
@@ -31,7 +31,7 @@ public class Section1_06 {
     }
     //값 입력
     public static void main(String[] args) {
-        Section1_06 s = new Section1_06();
+        Section2_06 s = new Section2_06();
         Scanner sc = new Scanner(System.in);
         int n = sc.nextInt();
         int[] arr = new int[n];
@@ -39,7 +39,7 @@ public class Section1_06 {
             arr[i] = sc.nextInt();
         }
         for(int x : s.solution(n, arr)) {
-            System.out.println(x + " ");
+            System.out.print(x + " ");
         }
     }
 }

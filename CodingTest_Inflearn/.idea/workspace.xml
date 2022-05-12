@@ -5,9 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="457ac715-9abd-47c2-91e5-f8aa1a226de5" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/Array/Section1_06.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/classes/String/Section1_06.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/classes/String/Section1_06.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/classes/String/Solution.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Array/Section1_06.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Array/Section2_06.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -62,7 +62,7 @@
       <recent name="C:\Users\kry\Project\CodingTest_Inflearn\src\js\String" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Solution">
+  <component name="RunManager" selected="Application.Section2_06">
     <configuration name="Lottos" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="String.Lottos" />
       <module name="CodingTest_Inflearn.main" />
@@ -102,8 +102,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Section2_04" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Array.Section2_04" />
+    <configuration name="Section2_06" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Array.Section2_06" />
       <module name="CodingTest_Inflearn.main" />
       <extension name="coverage">
         <pattern>
@@ -130,11 +130,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Section2_06" />
         <item itemvalue="Application.Solution" />
         <item itemvalue="Application.Lottos" />
         <item itemvalue="Application.Section1_06" />
         <item itemvalue="Application.Section1_04" />
-        <item itemvalue="Application.Section2_04" />
       </list>
     </recent_temporary>
   </component>
@@ -157,7 +157,7 @@
       <workItem from="1652077569598" duration="3245000" />
       <workItem from="1652167586435" duration="1773000" />
       <workItem from="1652227976310" duration="16249000" />
-      <workItem from="1652314102161" duration="8055000" />
+      <workItem from="1652314102161" duration="8372000" />
     </task>
     <servers />
   </component>

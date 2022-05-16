@@ -5,10 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="457ac715-9abd-47c2-91e5-f8aa1a226de5" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/Array/Section2_09.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Array/Section2_10.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/classes/Array/Section2_07.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/classes/Array/Section2_07.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Array/Section2_08.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Array/Section2_08.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -63,7 +61,7 @@
       <recent name="C:\Users\kry\Project\CodingTest_Inflearn\src\js\String" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Section2_09">
+  <component name="RunManager" selected="Application.Section2_10">
     <configuration name="Section2_06" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Array.Section2_06" />
       <module name="CodingTest_Inflearn.main" />
@@ -116,12 +114,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Solution" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="String.Solution" />
+    <configuration name="Section2_10" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Array.Section2_10" />
       <module name="CodingTest_Inflearn.main" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="String.*" />
+          <option name="PATTERN" value="Array.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -131,11 +129,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Section2_10" />
         <item itemvalue="Application.Section2_09" />
         <item itemvalue="Application.Section2_08" />
         <item itemvalue="Application.Section2_07" />
         <item itemvalue="Application.Section2_06" />
-        <item itemvalue="Application.Solution" />
       </list>
     </recent_temporary>
   </component>
@@ -159,7 +157,7 @@
       <workItem from="1652167586435" duration="1773000" />
       <workItem from="1652227976310" duration="16249000" />
       <workItem from="1652314102161" duration="15908000" />
-      <workItem from="1652663572953" duration="6258000" />
+      <workItem from="1652663572953" duration="8466000" />
     </task>
     <servers />
   </component>

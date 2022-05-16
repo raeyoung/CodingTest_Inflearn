@@ -1,6 +1,5 @@
 package Array;
 
-import java.util.ArrayList;
 import java.util.Scanner;
 
 // 등수구하기
@@ -29,7 +28,7 @@ public class Section2_08 {
             arr[i] = sc.nextInt();
         }
         for(int x : s.solution(n, arr)) {
-            System.out.println(x + " ");
+            System.out.print(x + " ");
         }
     }
 }

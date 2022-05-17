@@ -2,7 +2,7 @@ package Array;
 
 import java.util.Scanner;
 
-// 임시 반장 정하기 
+// 임시 반장 정하기
 public class Section2_11 {
     public int solution(int n, int[][] arr) {
         int answer = 0, max = Integer.MIN_VALUE;
